@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: ;
+}
+
+h1{
+    font-family: sans-serif;
+    color: rgba(2, 59, 2, 0.774);
+    
+}
+
+h4{
+    color: white;
+}
+
+.container{
+    background-color: brown;
+    width: 500px;
+    height: 600px;
+    text-align: center;
+}
+
+body{
+    background-color: red;
+    text-align: center;
+}
